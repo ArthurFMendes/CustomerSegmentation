@@ -23,6 +23,7 @@ Rather than defining groups before looking at the data, clustering allows you to
 
 Each centroid of a cluster is a collection of feature values which define the resulting groups. Examining the centroid feature weights can be used to qualitatively interpret what kind of group each cluster represents.  
 
+PCA and K-Means were later combined to create a easy to understand and target audience. By understanding the variables that better define each group, it is a lot easier to target the said audiences. 
 
 
 ## INSIGHTS 
